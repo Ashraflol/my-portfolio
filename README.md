@@ -45,7 +45,7 @@ gatsby new project-name https://github.com/LekoArts/gatsby-starter-portfolio-car
 
 Navigate into your new site's directory and start it up.
 
-```sh
+```sh here again
 cd project-name
 gatsby develop
 ```
